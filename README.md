@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Charles Brian Arboleda
-- 👀 I’m interested in computers, video games, weightlifting
+- 👀 I’m interested in computers, video games, and fitness
 - 🌱 I’m currently learning to become a Software Developer
 - 📫 You can reach me at caarboleda@outlook.com
 - 😄 Pronouns: He/Him
