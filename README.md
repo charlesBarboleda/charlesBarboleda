@@ -1,4 +1,4 @@
 - 👋 Hey, I’m Charles Brian Arboleda
-- 👀 I’m interested in game development, computer science, and fitness
-- 🌱 I’m currently learning to become a Software Developer and aspiring to become a Software Engineer
+- 👀 I’m interested in software development, computer science, and fitness
+- 🌱 I’m currently learning to become a software engineer
 - 📫 You can reach me at charlesarboleda_@hotmail.com
